@@ -1,0 +1,22 @@
+.o-info-container{
+    width: 100vw; 
+    background-color: blueviolet;
+}
+.o-img-profile{
+    width: 15rem;
+}
+.o-portfolio-container{
+    margin: 2rem 2rem;
+    padding: 1rem; 
+    background-color: aqua;
+    border: 0.1rem solid black; 
+} 
+.o-project{
+    background-color: cornflowerblue;
+    padding: 1rem;
+    margin: 2rem;
+}
+#project2{
+
+    background-color: deeppink;
+}
